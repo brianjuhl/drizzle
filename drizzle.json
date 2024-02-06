@@ -74,9 +74,12 @@
         "hint.background": "#FFEDED",
         "hint.border": "#CF5B56",
         "error": "#CF5B56",
+        "error.background": "#FFEDED",
+        "error.border": "#CF5B56",
         "warning": "#EDA200",
         "warning.background": "#FFF1D6",
         "warning.border": "#B57D0E",
+        "predictive": "#8E94A6",
         "info": "#007ACC",
         "syntax": {
           "attribute": { "color": "#174AD4" },
